@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">WApp</string>
+    <string name="search_city_tint">Start input city</string>
+    <string name="weather_not_loading">Weather information\nnot loaded yet!</string>
+    <string name="cities_loading">list of cities loading…</string>
+    <string name="last_update_prefix">Last update at </string>
+
+    <string name="morning">Morning</string>
+    <string name="day">Day</string>
+    <string name="evening">Evening</string>
+    <string name="night">Night</string>
+
+    <string name="weathericondesc">WeatherIcon</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="weathericonsize">80dp</dimen>
+    <dimen name="defaultpadding">16dp</dimen>
+    <dimen name="halfpadding">8dp</dimen>
+    <dimen name="citysearchtextsize">25sp</dimen>
+    <dimen name="weathertextsize">19sp</dimen>
+</resources>

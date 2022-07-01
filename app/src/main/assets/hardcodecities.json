@@ -1,0 +1,33 @@
+[{
+    "id": 536203,
+    "name": "Saint Petersburg",
+    "state": "",
+    "country": "RU",
+    "b": "RU",
+    "coord": {
+      "lon": 30.25,
+      "lat": 59.916668
+    }
+  },
+  {
+    "id": 524901,
+    "name": "Moscow",
+    "state": "",
+    "country": "RU",
+    "b": "RU",
+    "coord": {
+      "lon": 37.615555,
+      "lat": 55.75222
+    }
+  },
+  {
+    "id": 472459,
+    "name": "Vologda",
+    "state": "",
+    "country": "RU",
+    "b": "RU",
+    "coord": {
+      "lon": 39.888599,
+      "lat": 59.2187
+    }
+  }]
